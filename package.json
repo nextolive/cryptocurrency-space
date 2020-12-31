@@ -1,0 +1,29 @@
+{
+  "name": "money-printer",
+  "private": true,
+  "dependencies": {
+    "@babel/preset-react": "^7.12.10",
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "5.2.1",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "moment": "^2.29.1",
+    "popper.js": "^1.16.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-datetime": "^3.0.4",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "turbolinks": "^5.2.0",
+    "use-sound": "^2.0.1"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
